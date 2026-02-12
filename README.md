@@ -1,18 +1,10 @@
-<!-- 🌊 ULTRA Header -->
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:4A00E0,100:8E2DE2&height=260&section=header&text=To-Do%20List%20App&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 </p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=8E2DE2&center=true&vCenter=true&width=700&lines=Build+Discipline.;Stay+Organized.;Boost+Productivity.;Master+Consistency.🚀"/>
-</p>
-
----
-
-<p align="center">
-  <img src="https://img.shields.io/github/stars/your-username/to-do-list?style=for-the-badge"/>
-  <img src="https://img.shields.io/github/forks/your-username/to-do-list?style=for-the-badge"/>
-  <img src="https://img.shields.io/github/license/your-username/to-do-list?style=for-the-badge"/>
 </p>
 
 ---
