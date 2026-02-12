@@ -101,6 +101,7 @@ button:active {
   box-shadow: 0 20px 60px rgba(0, 0, 0, 0.4);
   transition: 0.3s;
   margin-top: 5vh;
+  display: none;
 }
 
 .day-card:hover {
@@ -111,6 +112,7 @@ button:active {
   color: white;
   margin-bottom: 15px;
   letter-spacing: 1px;
+  margin-left: 5vw;
 }
 
 table {
