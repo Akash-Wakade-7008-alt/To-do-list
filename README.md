@@ -23,7 +23,7 @@ A **modern, fast, and beautifully designed To-Do List App** built using **HTML, 
 
 This project focuses on **clean UI**, **smooth interactions**, and **efficient task management** — proving that powerful apps don’t always need heavy frameworks.
 
-> ⚡ *Simple tools executed perfectly create extraordinary results.*
+> ⚡ _Simple tools executed perfectly create extraordinary results._
 
 ---
 
@@ -32,7 +32,7 @@ This project focuses on **clean UI**, **smooth interactions**, and **efficient t
 ## 🌟 Minimal • Elegant • Powerful
 
 <p align="center">
-  <img src="./images/preview-1.png" width="900"/>
+  <img src="./images/Preview-1.png" width="100%"/>
 </p>
 
 ---
@@ -40,7 +40,7 @@ This project focuses on **clean UI**, **smooth interactions**, and **efficient t
 ## ⚡ Built For Focus & Speed
 
 <p align="center">
-  <img src="./images/preview-2.png" width="900"/>
+  <img src="./images/Preview-2.png" width="100%"/>
 </p>
 
 ---
@@ -52,7 +52,7 @@ This project focuses on **clean UI**, **smooth interactions**, and **efficient t
 ✅ Zero dependencies  
 ✅ Fully responsive  
 ✅ Clean architecture  
-✅ Beginner-friendly yet impressive  
+✅ Beginner-friendly yet impressive
 
 💡 **This is the type of project recruiters LOVE — simple, polished, and functional.**
 
@@ -64,7 +64,7 @@ This project focuses on **clean UI**, **smooth interactions**, and **efficient t
 🔥 Event Handling  
 🔥 UI/UX Fundamentals  
 🔥 Responsive Design  
-🔥 Clean Code Practices  
+🔥 Clean Code Practices
 
 👉 This project reflects **real developer thinking**, not tutorial copying.
 
@@ -72,14 +72,10 @@ This project focuses on **clean UI**, **smooth interactions**, and **efficient t
 
 # 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js&perline=3" />
-</p>
-
-| Tech | Purpose |
-|--------|------------|
-| HTML5 | Structure |
-| CSS3 | Styling |
+| Tech       | Purpose       |
+| ---------- | ------------- |
+| HTML5      | Structure     |
+| CSS3       | Styling       |
 | JavaScript | Functionality |
 
 ---
@@ -122,7 +118,7 @@ Just pure web power.
 ⭐ Task Categories  
 ⭐ Priority Labels  
 ⭐ Due Dates  
-⭐ Cloud Sync  
+⭐ Cloud Sync
 
 > 🔥 Turning this into a full productivity system.
 
@@ -135,9 +131,7 @@ Just pure web power.
 ✔ You understand JavaScript  
 ✔ You can build UI  
 ✔ You can structure apps  
-✔ You are beyond beginner level  
-
-⚠️ Most students never reach this clarity — you already did.
+✔ You are beyond beginner level
 
 ---
 
@@ -147,7 +141,7 @@ Want to improve it?
 
 Fork 🍴  
 Build 🔨  
-Pull Request 🚀  
+Pull Request 🚀
 
 Let's grow together!
 
@@ -163,21 +157,12 @@ It motivates me to build even bigger things!
 # 👨‍💻 Author
 
 ## **Akash Wakade**
+
 🎓 B.Tech CSE (AI)  
 🚀 Future Software Engineer  
-🔥 Passionate Web Developer  
+🔥 Passionate Web Developer
 
-> *"Great developers are not born — they build daily."*
-
-<p align="center">
-  <a href="https://github.com/your-username">
-    <img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github"/>
-  </a>
-  
-  <a href="https://linkedin.com/in/your-linkedin">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
-  </a>
-</p>
+> _"Great developers are not born — they build daily."_
 
 ---
 
@@ -186,7 +171,3 @@ It motivates me to build even bigger things!
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:0F2027&height=140&section=footer"/>
-</p>
