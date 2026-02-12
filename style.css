@@ -10,7 +10,10 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  background: linear-gradient(135deg, #0f2027, #203a43, #2c5364);
+ /* background: linear-gradient(135deg, #667eea, #764ba2); */
+background: linear-gradient(135deg, #0f2027, #203a43, #2c5364);
+/* background: linear-gradient(135deg, #ff7e5f, #feb47b); */
+   /* background: linear-gradient(135deg, #af80d1, #845fd9, #5e26df); */
 }
 
 .container {
@@ -19,7 +22,7 @@ body {
   border-radius: 18px;
   background: rgba(255, 255, 255, 0.08);
   backdrop-filter: blur(12px);
-  box-shadow: 0 20px 60px rgba(0, 0, 0, 0.4);
+  box-shadow: 0 20px 60px rgba(9, 9, 12, 0.4);
   text-align: center;
 }
 
