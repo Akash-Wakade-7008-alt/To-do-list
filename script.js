@@ -3,7 +3,7 @@ let task = document.querySelector(".task");
 let days = document.querySelector(".day-card");
 let input = document.querySelector(".input-box");
 
-function showDays() {
+task.onclick=function(){
     let day = input.value.trim().toLowerCase();
     if (day === "sunday")    
     {
