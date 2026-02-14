@@ -24,6 +24,8 @@ This project focuses on **clean UI**, **smooth interactions**, and **efficient t
 ⭐ **Experience the animation live here:**  
 👉 https://to-do-list-ashy-chi-65.vercel.app/
 
+⭐ **Read the Linkden Post:**  
+👉 https://www.linkedin.com/feed/update/urn:li:activity:7427977115637104640/
 
 ## 🌟 Minimal • Elegant • Powerful
 
