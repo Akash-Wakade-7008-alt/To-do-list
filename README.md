@@ -43,6 +43,31 @@ This project focuses on **clean UI**, **smooth interactions**, and **efficient t
 
 ---
 
+## ⚙️ Local Setup
+
+### Option 1: Clone the Repository
+
+```bash
+git clone https://github.com/Akash-Wakade-7008-alt/To-do-list.git
+
+cd TO-DO-LIST
+
+open index.html
+
+```
+
+### 📦 Option 2: Download ZIP File
+
+Download the project directly:  
+👉 https://github.com/Akash-Wakade-7008-alt/To-do-list/releases/download/TO-DO-LIST/To-do-list.zip
+
+1. Download the ZIP file
+2. Extract it
+3. Open `index.html` in your browser
+
+---
+
+
 # ✨ Why This Project Stands Out
 
 ✅ Lightning-fast interface  
