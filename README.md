@@ -1,4 +1,3 @@
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:4A00E0,100:8E2DE2&height=260&section=header&text=To-Do%20List%20App&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 </p>
@@ -43,6 +42,22 @@ This project focuses on **clean UI**, **smooth interactions**, and **efficient t
 
 ---
 
+# 📂 Project Structure
+
+```
+to-do-list
+│
+├── index.html
+├── style.css
+├── script.js
+│
+└── images/
+     ├── preview-1.png
+     └── preview-2.png
+```
+
+---
+
 ## ⚙️ Local Setup
 
 ### Option 1: Clone the Repository
@@ -67,6 +82,15 @@ Download the project directly:
 
 ---
 
+# 🛠️ Tech Stack
+
+| Tech       | Purpose       |
+| ---------- | ------------- |
+| HTML5      | Structure     |
+| CSS3       | Styling       |
+| JavaScript | Functionality |
+
+---
 
 # ✨ Why This Project Stands Out
 
@@ -90,32 +114,6 @@ Download the project directly:
 🔥 Clean Code Practices
 
 👉 This project reflects **real developer thinking**, not tutorial copying.
-
----
-
-# 🛠️ Tech Stack
-
-| Tech       | Purpose       |
-| ---------- | ------------- |
-| HTML5      | Structure     |
-| CSS3       | Styling       |
-| JavaScript | Functionality |
-
----
-
-# 📂 Project Structure
-
-```
-to-do-list
-│
-├── index.html
-├── style.css
-├── script.js
-│
-└── images/
-     ├── preview-1.png
-     └── preview-2.png
-```
 
 ---
 
@@ -172,11 +170,3 @@ It motivates me to build even bigger things!
 🔥 Passionate Web Developer
 
 > _"Great developers are not born — they build daily."_
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&color=8E2DE2&style=for-the-badge"/>
-</p>
-
----
