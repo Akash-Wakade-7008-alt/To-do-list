@@ -119,20 +119,6 @@ to-do-list
 
 ---
 
-# ⚡ Setup (10 Seconds)
-
-```bash
-git clone https://github.com/your-username/to-do-list.git
-```
-
-Open **index.html** and you're ready to go ✅
-
-No installs.  
-No dependencies.  
-Just pure web power.
-
----
-
 # 🚀 Future Upgrades
 
 ⭐ Local Storage  
